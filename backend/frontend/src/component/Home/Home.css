@@ -68,7 +68,11 @@
   width: 20vmax;
   padding: 1vmax;
   margin: 5vmax auto;
-  color: rgb(0, 0, 0, 0.7);
+  color: rgb(0, 0, 0) !important;
+  background-color: #ebebeb;
+  border-radius: 40px;
+  letter-spacing: 1px;
+  font-weight: bold;
 }
 
 .container {

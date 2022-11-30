@@ -7,8 +7,9 @@ const Footer = () => {
       <div className="leftFooter"></div>
 
       <div className="midFooter">
-        <h1>ECOMMERCE.</h1>
-        <p>&copy; Prakhar Nagore</p>
+        <h1>Shopper.</h1>
+        <small>MERN Ecommerce APP</small>
+        <p>Built by &copy; Prakhar Nagore</p>
       </div>
 
       <div className="rightFooter"></div>

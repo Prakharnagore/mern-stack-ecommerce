@@ -63,7 +63,7 @@ function App() {
     getStripeApiKey();
   }, []);
 
-  window.addEventListener("contextmenu", (e) => e.preventDefault());
+  // window.addEventListener("contextmenu", (e) => e.preventDefault());
 
   return (
     <Router>
@@ -74,6 +74,7 @@ function App() {
         </Elements>
       )}
       {isAuthenticated && <UserOptions user={user} />}
+
       <Switch>
         <Route exact path="/" component={Home}></Route>
         <Route exact path="/product/:id" component={ProductDetails} />

@@ -1,3 +1,7 @@
+# Demo Credentials
+Admin Demo Username : iamadmin@gmail.com
+Admin Demo Password : iamadmin000
+
 # MERN ECOMMERCE
 
 Hii,
@@ -34,3 +38,5 @@ STRIPE_SECRET_KEY=
 **LinkedIn** Click [Here](https://www.linkedin.com/in/prakhar-nagore-7346111a6/?originalSubdomain=in) **@prakharNagore**
 
 **Google** Click [Here](https://www.google.com/search?q=prakharnagore&oq=prakharnagore&aqs=chrome.0.69i59j69i60l3.1714j0j7&sourceid=chrome&ie=UTF-8) **@prakharNagore**
+
+
